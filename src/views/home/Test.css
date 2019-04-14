@@ -1,0 +1,24 @@
+/* .swiper-container {
+  width: 300px;
+  height: 100px;
+} */
+
+.swiper-container .swiper-wrapper .swiper-slide {
+  height: 150px;
+  width: 100%;
+}
+
+.swiper-pagination {
+  position: relative;
+  bottom: 0;
+  margin-top: 30px;
+}
+
+#swiperNav .swiper-slide {
+  width: 60px;
+  height: 30px;
+}
+
+#swiperNav .swiper-slide-active {
+  /* font-size: 30px; */
+}

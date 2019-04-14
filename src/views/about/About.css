@@ -1,0 +1,23 @@
+.bg-1 {
+  background: red;
+}
+
+.bg-2 {
+  background: yellowgreen;
+}
+
+.bg-3 {
+  background: rgb(153, 0, 255);
+}
+
+.test-span {
+  padding: 10px 20px;
+}
+
+.test-span-active {
+  color: blue;
+}
+
+.active-nav {
+  font-size: 30px;
+}

@@ -1,0 +1,12 @@
+.table-nav {
+  display: flex;
+  height: 30px;
+}
+
+.table-nav span {
+  flex: 1;
+}
+
+.table-nav .active {
+  color: red;
+}
