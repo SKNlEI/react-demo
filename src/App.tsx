@@ -15,6 +15,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
             Learn React
+            <h1>this is test demo</h1>
         </header>
         <Test />
         <TableCard />
