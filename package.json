@@ -12,7 +12,7 @@
     "react-dom": "^16.8.5",
     "react-scripts": "2.1.8",
     "redux-logger": "^3.0.6",
-    "swiper": "^4.5.0",
+    "swiper": "^6.5.1",
     "typescript": "^3.3.4000"
   },
   "scripts": {
